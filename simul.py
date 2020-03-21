@@ -1,5 +1,7 @@
 import random as r
 
+import matplotlib.pyplot as plt
+
 class GameState:
 	"""docstring for GameState"""
 	def __init__(self, mood = 100, taxes = 100, healthcare = 28000,
@@ -77,13 +79,28 @@ def loosing(gamestate):
 	return gamestate.active >= gamestate.healthcare
 
 
-def simulate(n):
-	g = GameState()
-	cards = [ActiveCases(), Dying(), Infect(), Healing(), Heal()]
-	for i in range(n):
-		g = g.clone()
-		for el in cards:
-			g = el.apply(g)
-		print(g)
 
+
+def simulate(n):
+    healed = []
+    infected = []
+    new_infected = []
+    dead = []
+    g = GameState()
+    cards = [ActiveCases(), Dying(), Infect(), Healing(), Heal()]
+    for i in range(n):
+        g = g.clone()
+        for el in cards:
+            g = el.apply(g)
+        print(g)
+        healed.append(g.healed)
+        infected.append(g.infected)
+        new_infected.append(g.new_infected)
+        dead.append(g.dead)
+    plt.plot(healed, label = 'healed')
+    plt.plot(infected, label = 'infected')
+    plt.plot(new_infected, label = 'new infected')
+    plt.plot(dead, label = 'dead')
+    plt.legend()
+    plt.show()
 simulate(30)
