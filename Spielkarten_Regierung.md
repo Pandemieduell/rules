@@ -1,8 +1,13 @@
 (V) Stimmung in der Gesellschaft (Punktekonto)
+
 (S) Steuergeld (Abstrakte Währung)
+
 (G) Gesundheitssystem (Prozent + Insgesamtanzahl versorgbarer Personen)
+
 (I) Infizierte Personen (Anzahl)
+
 (T) Tote Personen (Anzahl)
+
 (R) Immune Personen (Anzahl)
 
 (W) Wachstumsfaktor (Prozent)
