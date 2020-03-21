@@ -24,8 +24,9 @@ class GameState:
 		return g
 
 	def __repr__(self):
-		return "GameState(" + ", ".join(map(lambda x: str(x), [self.mood, self.taxes, self.healthcare, self.infected,
-			self.dead, self.immune, self.active, self.noninfected])) + ")"
+		return "GameState(" + ", ".join(map(lambda x: x[0] + "=" + str(x[1]),
+				[("mood", self.mood), ("taxes",self.taxes), ("healthcare",self.healthcare), ("infected",self.infected),
+				 ("dead",self.dead), ("immune", self.immune), ("active", self.active), ("noninfected", self.noninfected)])) + ")"
 
 class Card:
 	def apply(self, gamestate):
@@ -54,22 +55,32 @@ class Healing(Card):
 		gamestate.healed = get_prev_n(gamestate, 18).new_infected if get_prev_n(gamestate, 18) else 0
 		return gamestate
 
+class Infect(Card):
+	def apply(self, gamestate):
+		gamestate.new_infected = int(gamestate.infected * gamestate.growth + r.random() * 5)
+		gamestate.infected += gamestate.new_infected
+		gamestate.noninfected -= gamestate.new_infected
+		return gamestate
+
+class Heal(Card):
+	def apply(self, gamestate):
+		healed = gamestate.healed
+		gamestate.infected -= healed
+		gamestate.immune += healed
+		return gamestate
+
+
 def loosing(gamestate):
 	return gamestate.active >= gamestate.healthcare
 
 
 def simulate(n):
 	g = GameState()
-	cards = [ActiveCases(), Dying()]
+	cards = [ActiveCases(), Dying(), Infect(), Healing(), Heal()]
 	for i in range(n):
 		g = g.clone()
 		for el in cards:
 			g = el.apply(g)
-		g.new_infected = int(g.infected * g.growth + r.random() * 5)
-		g.infected += g.new_infected
-		healed = g.healed
-		g.infected -= healed
-		g.immune += healed
 		print(g)
 
-simulate(6)
+simulate(30)
