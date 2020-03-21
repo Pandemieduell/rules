@@ -67,19 +67,24 @@ class Infect(Card):
 		gamestate.infected += gamestate.new_infected
 		return gamestate
 
+class CrashHealthcare(Card):
+	def loosing(self, gamestate):
+		return gamestate.active >= gamestate.healthcare
 
+	def apply(self, gamestate):
+		if self.loosing(gamestate):
+			print("we lost")
+		return gamestate
 
-def loosing(gamestate):
-	return gamestate.active >= gamestate.healthcare
 
 
 def simulate(n):
 	g = GameState()
-	cards = [ActiveCases(), Dying(), Infect(), Healing()]
+	cards = [ActiveCases(), Dying(), Infect(), Healing(), CrashHealthcare()]
 	for i in range(n):
 		g = g.clone()
 		for el in cards:
 			g = el.apply(g)
-		print(g)
+		print(i, g)
 
 simulate(30)
