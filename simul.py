@@ -53,6 +53,8 @@ class Dying(Card):
 class Healing(Card):
 	def apply(self, gamestate):
 		gamestate.healed = get_prev_n(gamestate, 18).new_infected if get_prev_n(gamestate, 18) else 0
+		gamestate.infected -= gamestate.healed
+		gamestate.immune += gamestate.healed
 		return gamestate
 
 class Infect(Card):
@@ -65,12 +67,6 @@ class Infect(Card):
 		gamestate.infected += gamestate.new_infected
 		return gamestate
 
-class Heal(Card):
-	def apply(self, gamestate):
-		healed = gamestate.healed
-		gamestate.infected -= healed
-		gamestate.immune += healed
-		return gamestate
 
 
 def loosing(gamestate):
@@ -79,7 +75,7 @@ def loosing(gamestate):
 
 def simulate(n):
 	g = GameState()
-	cards = [ActiveCases(), Dying(), Infect(), Healing(), Heal()]
+	cards = [ActiveCases(), Dying(), Infect(), Healing()]
 	for i in range(n):
 		g = g.clone()
 		for el in cards:
