@@ -82,6 +82,44 @@ class CrashHealthcare(Card):
         return gamestate
 
 
+class GeneralCard(C):
+    """docstring for GeneralCard"""
+    def __init__(self, title, description, mood=0, taxes=0, healthcare=0, new_infected=0, dead=0, growth=0, heal_time=0, deathrate=0, death_time=0):
+        super(GeneralCard, self).__init__()
+        self.mood = mood
+        self.description = description
+        self.title = title
+
+        self.taxes = taxes
+        self.healthcare = healthcare
+        self.new_infected = new_infected
+        self.dead = dead
+        self.growth = growth
+        self.heal_time = heal_time
+        self.deathrate = deathrate
+        self.death_time = death_time
+
+    def apply(self, gamestate):
+        gamestate.mood += self.mood
+        gamestate.taxes += self.taxes
+        gamestate.healthcare += self.healthcare
+        gamestate.new_infected += self.new_infected
+        gamestate.dead += self.dead # todo:distribution
+        gamestate.growth += self.growth
+        gamestate.heal_time += self.heal_time
+        gamestate.deathrate += self.deathrate
+        gamestate.death_time += self.death_time
+
+titiasCoolCard = GeneralCard("Influenza mischt mit", "Das Influenza-Virus tritt gleichzeitig auf", mood=-5, healthcare=-3, dead=3000)
+
+class GeneralCard(Card):
+    def __init__(self):
+        pass
+
+    def apply(self, gamestate):
+        pass
+
+
 def simulate(n):
     g = GameState()
     cards = [ActiveCases(), Dying(), Infect(), Healing(), CrashHealthcare()]
