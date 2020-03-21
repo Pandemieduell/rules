@@ -58,8 +58,11 @@ class Healing(Card):
 class Infect(Card):
 	def apply(self, gamestate):
 		gamestate.new_infected = int(gamestate.infected * gamestate.growth + r.random() * 5)
-		gamestate.infected += gamestate.new_infected
 		gamestate.noninfected -= gamestate.new_infected
+		if gamestate.noninfected < 0:
+			gamestate.new_infected -= (-gamestate.noninfected)
+			gamestate.noninfected = 0
+		gamestate.infected += gamestate.new_infected
 		return gamestate
 
 class Heal(Card):
