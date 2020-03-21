@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 26055,
-  "expoServerNgrokUrl": "https://xj-9p3.anonymous.pandemieduell.exp.direct",
-  "packagerNgrokUrl": "https://packager.xj-9p3.anonymous.pandemieduell.exp.direct",
-  "ngrokPid": 26109
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://5u-sxx.anonymous.app.exp.direct",
+  "packagerNgrokUrl": "https://packager.5u-sxx.anonymous.app.exp.direct",
+  "ngrokPid": 36128
 }
