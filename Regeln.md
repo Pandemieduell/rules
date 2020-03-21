@@ -8,7 +8,7 @@ Spielablauf:
 Jede:r Spieler:in hat am Anfang 4 Karten auf der Hand. Man spielt eine Karte und die Nächste Person ist dran. Gleichzeitig kann das Virus jederzeit reagieren. Man legt eine Karte ab und zieht erst eine neue wenn der nächste Spieler:in dran ist. Man spielt jede Runde eine Karte. Nach Abschluss des Zuges gehen 2 Karten zufällig zurück in den Stapel. 
 Manche Karten haben Voraussetzungen, dass man sie auspielen kann.
 
-Am Ende jeder Runde spielt der Vierus eine Karte aus, diese kann etweder nichts bewirken oder die Situation verändern.
+Am Ende jeder Runde spielt der Virus eine Karte aus, diese kann etweder nichts bewirken oder die Situation verändern.
 
 Ressourcen:
 
@@ -21,3 +21,8 @@ Jede Karte hat einen Preis, verändert also die Verfügbarkeit einer Ressourcen.
 Spielende:
     Regierung   gewinnt wenn 0 Infizierte in der Bevölkerung  und verliert wenn das Gesundheitssystem kollabiert
     Bevölkerung gewinnt wenn das Gesundheitssystem kollabiert und verliert wenn die Regierung gewinnt
+
+    ============================= Meeting 21.03.20 - 00:47 =======================================
+    
+    - Regierung <-> Bevölkerung funktioniert nicht, da Bevölkerung unsympatisch zu spielen
+    - Idee: Virus <-> Regierung, Bevölkerung wird simuliert???
