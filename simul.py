@@ -3,7 +3,7 @@ import random as r
 class GameState:
 	"""docstring for GameState"""
 	def __init__(self, mood = 100, taxes = 100, healthcare = 28000,
-			new_infected = 1, dead = 0, immune = 0, active = 0, noninfected = int(83e6), growth = 1.33):
+			new_infected = 1, dead = 0, immune = 0, active = 0, noninfected = int(83e6), growth = 0.33):
 		self.mood = mood
 		self.taxes = taxes
 		self.healthcare = healthcare
