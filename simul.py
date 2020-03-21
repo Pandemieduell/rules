@@ -82,14 +82,16 @@ class CrashHealthcare(Card):
         return gamestate
 
 
-
+def simulate(n):
     g = GameState()
     cards = [ActiveCases(), Dying(), Infect(), Healing(), CrashHealthcare()]
     healed = []
     infected = []
     new_infected = []
     dead = []
-    for i in range(200):
+    healthcare = []
+    active = []
+    for i in range(n):
         g = g.clone()
         for el in cards:
             g = el.apply(g)
@@ -100,15 +102,17 @@ class CrashHealthcare(Card):
         infected.append(g.infected)
         new_infected.append(g.new_infected)
         dead.append(g.dead)
+        healthcare.append(g.healthcare)
+        active.append(g.active)
 
         if LOOSING:
             break
     plt.plot(healed, label = 'healed')
-    plt.plot(infected, label = 'infected')
-    plt.plot(new_infected, label = 'new infected')
     plt.plot(dead, label = 'dead')
+    plt.plot(healthcare, label = "healthcare")
+    plt.plot(active, label = "active")
     plt.legend()
     plt.show()
 
 
-simulate(30)
+simulate(200)
