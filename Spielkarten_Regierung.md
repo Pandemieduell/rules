@@ -10,7 +10,6 @@
 Angabe der Veränderung betreffen die Prozentdarstellung der Resourcen.
 Zahl vorne gibt die Runde. Effekt bei 0 tritt sofort ein, die anderen entsprechend in späteren Runden.
 
-=====================
 BEISPIELHAFTE KARTEN!
 =====================
 
