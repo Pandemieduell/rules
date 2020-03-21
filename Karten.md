@@ -20,3 +20,6 @@ Regierung:
     - Stadt abriegeln
     - Erinnerung an Hust- und Niesregeln
     - Die Regierung veranstaltet einen Hackathon
+    
+Pandemie:
+    - die Bevölkerung hamstert
