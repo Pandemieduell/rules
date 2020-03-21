@@ -34,14 +34,14 @@
    inkscape:window-height="1390"
    id="namedview137"
    showgrid="false"
-   showguides="false"
-   inkscape:zoom="0.42753623"
-   inkscape:cx="-489.63525"
-   inkscape:cy="1153.2533"
+   showguides="true"
+   inkscape:zoom="0.32"
+   inkscape:cx="-226.80322"
+   inkscape:cy="977.27707"
    inkscape:window-x="2560"
    inkscape:window-y="166"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Ebene_3" />
+   inkscape:current-layer="svg135" />
 <style
    type="text/css"
    id="style2">
@@ -80,12 +80,84 @@
      height="2200.9832"
      x="-1212.8813"
      y="2.3389797" /><rect
-     style="enable-background:new 0 0 1242 2208;fill:#586d75;fill-opacity:0.47843137"
+     style="fill:#586d75;fill-opacity:0.47843137"
      id="rect4739"
      width="1250.3566"
      height="2221.2312"
-     x="0"
-     y="0" /></g><g
+     x="3.125"
+     y="0" /><rect
+     x="134.13785"
+     y="2054.9341"
+     class="st6"
+     width="1008.9359"
+     height="94"
+     id="rect55-0"
+     style="fill:#327f6b;fill-opacity:1;stroke-width:1.01569283" /><rect
+     x="235.86018"
+     y="2089.9338"
+     class="st5"
+     width="885.04077"
+     height="16"
+     id="rect63-2"
+     style="fill:#eee8d5;fill-opacity:1;stroke-width:1.76531601" /><rect
+     style="fill:#327f6b;fill-opacity:1"
+     id="rect4943-8"
+     width="1006.25"
+     height="137.5"
+     x="141.27107"
+     y="558.89105" /><rect
+     style="fill:#073642;fill-opacity:1;stroke-width:1.45783865"
+     id="rect4989"
+     width="1006.25"
+     height="1299.4769"
+     x="141.2711"
+     y="696.39105" /><rect
+     style="fill:#006680;fill-opacity:1"
+     id="rect4991"
+     width="15.467961"
+     height="2.2097087"
+     x="207.71262"
+     y="1034.6447" /><rect
+     x="206.11082"
+     y="771.17615"
+     class="st5"
+     width="885.04077"
+     height="192.00349"
+     id="rect63-2-8"
+     style="fill:#eee8d5;fill-opacity:1;stroke-width:6.11528969"
+     transform="matrix(1,0,-0.00602743,0.99998183,0,0)" /><rect
+     x="213.94897"
+     y="1034.6635"
+     class="st5"
+     width="885.04077"
+     height="192.00349"
+     id="rect63-2-8-5"
+     style="fill:#eee8d5;fill-opacity:1;stroke-width:6.11528969"
+     transform="matrix(1,0,-0.00602743,0.99998183,0,0)" /><rect
+     x="212.6907"
+     y="1287.0233"
+     class="st5"
+     width="885.04077"
+     height="192.00349"
+     id="rect63-2-8-6"
+     style="fill:#eee8d5;fill-opacity:1;stroke-width:6.11528969"
+     transform="matrix(1,0,-0.00602743,0.99998183,0,0)" /><rect
+     x="223.55374"
+     y="1533.9028"
+     class="st5"
+     width="885.04077"
+     height="192.00349"
+     id="rect63-2-8-1"
+     style="fill:#eee8d5;fill-opacity:1;stroke-width:6.11528969"
+     transform="matrix(1,0,-0.00602743,0.99998183,0,0)" /><rect
+     x="225.07947"
+     y="1787.0323"
+     class="st5"
+     width="885.04077"
+     height="192.00349"
+     id="rect63-2-8-15"
+     style="fill:#eee8d5;fill-opacity:1;stroke-width:6.11528969"
+     transform="matrix(1,0,-0.00602743,0.99998183,0,0)" /></g><g
    id="Ebene_1">
 	
 		<rect
@@ -237,7 +309,7 @@
    width="978"
    height="94"
    id="rect45"
-   style="fill:#2aa198;fill-opacity:1" />
+   style="fill:#327f6b;fill-opacity:1" />
 	<rect
    x="-2312"
    y="2073"
@@ -277,7 +349,7 @@
    width="978"
    height="94"
    id="rect55"
-   style="fill:#2aa198;fill-opacity:1" />
+   style="fill:#327f6b;fill-opacity:1" />
 	<rect
    x="-1050"
    y="2071"
@@ -396,150 +468,68 @@
    ry="0" /></g>
 
 <g
-   id="Ebene_2">
+   id="Ebene_2"
+   transform="translate(2237.5,-1778.125)">
 	<path
    class="st1"
-   d="M-1861.06,759.81c0.07,1.34-0.12,2.67-0.57,3.93l-8.97,24.98l-23.13,64.43c-3.13,8.71-15.44,8.71-18.56,0   l-23.13-64.43l-8.97-24.98c-0.45-1.26-0.64-2.6-0.57-3.93c1.14-22.18,19.48-39.81,41.94-39.81S-1862.2,737.63-1861.06,759.81z"
+   d="m -1861.06,759.81 c 0.07,1.34 -0.12,2.67 -0.57,3.93 l -8.97,24.98 -23.13,64.43 c -3.13,8.71 -15.44,8.71 -18.56,0 l -23.13,-64.43 -8.97,-24.98 c -0.45,-1.26 -0.64,-2.6 -0.57,-3.93 1.14,-22.18 19.48,-39.81 41.94,-39.81 22.46,0 40.82,17.63 41.96,39.81 z"
    id="path66"
-   style="fill:#eee8d5;fill-opacity:1" />
-	<path
-   class="st6"
-   d="M521.05,1893.22H309.21c-18.61,0-33.69-15.08-33.69-33.69v-211.84c0-18.61,15.08-33.69,33.69-33.69h211.84   c18.61,0,33.69,15.08,33.69,33.69v211.84C554.74,1878.14,539.66,1893.22,521.05,1893.22z"
-   id="path68" />
-	<path
-   class="st6"
-   d="M931.31,1892.74H720.43c-18.61,0-33.69-15.08-33.69-33.69v-210.88c0-18.61,15.08-33.69,33.69-33.69h210.88   c18.61,0,33.69,15.08,33.69,33.69v210.88C965,1877.66,949.92,1892.74,931.31,1892.74z"
-   id="path70"
-   style="fill:#006680;fill-opacity:1" />
-	<path
-   class="st6"
-   d="M517.31,1551.26H312.96c-18.61,0-33.69-15.08-33.69-33.69v-204.35c0-18.61,15.08-33.69,33.69-33.69h204.35   c18.61,0,33.69,15.08,33.69,33.69v204.35C551,1536.17,535.92,1551.26,517.31,1551.26z"
-   id="path72" />
-	<path
-   class="st6"
-   d="M720.69,1276.52h210.35c18.61,0,33.69,15.08,33.69,33.69v210.35c0,18.61-15.08,33.69-33.69,33.69H720.69   c-18.61,0-33.69-15.08-33.69-33.69v-210.35C687,1291.6,702.08,1276.52,720.69,1276.52z"
-   id="path74"
-   style="fill:#006680;fill-opacity:1" />
-	<rect
-   x="153"
-   y="229"
-   class="st5"
-   width="936"
-   height="956"
-   id="rect76"
-   style="fill:#073642;fill-opacity:1" />
-	<rect
-   x="153"
-   y="131"
-   class="st4"
-   width="936"
-   height="42"
-   id="rect78" />
-	<rect
-   x="153"
-   y="131"
-   class="st8"
-   width="731"
-   height="42"
-   id="rect80" />
+   style="fill:#eee8d5;fill-opacity:1"
+   inkscape:connector-curvature="0" />
 	
-	<rect
-   x="212"
-   y="1983"
-   class="st5"
-   width="64"
-   height="64"
-   id="rect84" />
-	<rect
-   x="695"
-   y="1983"
-   class="st5"
-   width="64"
-   height="64"
-   id="rect86" />
-	<rect
-   x="294"
-   y="2007"
-   class="st5"
-   width="284"
-   height="16"
-   id="rect88" />
 	
-	<path
-   class="st1"
-   d="M662.94,759.81c0.07,1.34-0.12,2.67-0.57,3.93l-8.97,24.98l-23.13,64.43c-3.13,8.71-15.44,8.71-18.56,0   l-23.13-64.43l-8.97-24.98c-0.45-1.26-0.64-2.6-0.57-3.93C580.2,737.63,598.54,720,621,720S661.8,737.63,662.94,759.81z"
-   id="path92" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </g>
+
 <g
-   id="Ebene_3">
-	<rect
-   class="st1"
-   width="922"
-   height="2208"
-   id="rect95"
-   style="fill:#2aa198;fill-opacity:1" />
-	<path
-   class="st7"
-   d="M903.29,69.85l-1.44,1.44c-1.5,1.5-3.94,1.5-5.44,0l-34.71-34.71c-1.5-1.5-1.5-3.94,0-5.44l1.44-1.44   c1.5-1.5,3.94-1.5,5.44,0l34.71,34.71C904.8,65.91,904.8,68.35,903.29,69.85z"
-   id="path97" />
-	<path
-   class="st7"
-   d="M863.15,71.29l-1.44-1.44c-1.5-1.5-1.5-3.94,0-5.44l34.71-34.71c1.5-1.5,3.94-1.5,5.44,0l1.44,1.44   c1.5,1.5,1.5,3.94,0,5.44l-34.71,34.71C867.09,72.8,864.65,72.8,863.15,71.29z"
-   id="path99" />
-	<rect
-   y="516"
-   class="st9"
-   width="922"
-   height="145"
-   id="rect101"
-   style="fill:#492f00;fill-opacity:0.29803923" />
-	<rect
-   y="806"
-   class="st9"
-   width="922"
-   height="145"
-   id="rect103"
-   style="fill:#327f6b;fill-opacity:1" />
-	<rect
-   y="1096"
-   class="st9"
-   width="922"
-   height="145"
-   id="rect105"
-   style="fill:#327f6b;fill-opacity:1" />
-</g>
-<g
-   id="Ebene_4">
+   id="Ebene_4"
+   transform="matrix(0.92718909,0,0,1,167.6828,0)">
 	<text
-   transform="matrix(1 0 0 1 251.75 1195.7422)"
+   transform="translate(251.75,1195.7422)"
    class="st7 st10 st11"
-   id="text108">Einstellungen</text>
+   id="text108"
+   style="font-size:66.59670258px;font-family:OpenSans;fill:#ffffff" />
 
 	<text
-   transform="matrix(1 0 0 1 196.2003 1053.28)"
+   transform="translate(196.2003,1053.28)"
    class="st7 st10 st11"
-   id="text110">Gespielte Partien</text>
+   id="text110"
+   style="font-size:66.59670258px;font-family:OpenSans;fill:#ffffff" />
 
 	<text
-   transform="matrix(1 0 0 1 254.2539 902.7422)"
+   transform="translate(254.2539,902.7422)"
    class="st7 st10 st11"
-   id="text112">Lorem Ipsum</text>
+   id="text112"
+   style="font-size:66.59670258px;font-family:OpenSans;fill:#ffffff" />
 
 	<text
-   transform="matrix(1 0 0 1 234.1094 763.7422)"
+   transform="translate(234.1094,763.7422)"
    class="st7 st10 st11"
-   id="text114">Offene Partien</text>
+   id="text114"
+   style="font-size:66.59670258px;font-family:OpenSans;fill:#ffffff" />
 
 	<text
-   transform="matrix(1 0 0 1 232.4346 619.7422)"
+   transform="translate(232.4346,619.7422)"
    class="st7 st10 st11"
-   id="text116">Gegner Finden</text>
+   id="text116"
+   style="font-size:66.59670258px;font-family:OpenSans;fill:#ffffff" />
 
 	<path
    class="st6"
-   d="M2289.9,1080H1476.1c-7.24,0-13.1-5.87-13.1-13.1V951.1c0-7.24,5.87-13.1,13.1-13.1h813.79   c7.24,0,13.1,5.87,13.1,13.1v115.79C2303,1074.13,2297.13,1080,2289.9,1080z"
+   d="m 2289.9,1080 h -813.8 c -7.24,0 -13.1,-5.87 -13.1,-13.1 V 951.1 c 0,-7.24 5.87,-13.1 13.1,-13.1 h 813.79 c 7.24,0 13.1,5.87 13.1,13.1 v 115.79 c 0.01,7.24 -5.86,13.11 -13.09,13.11 z"
    id="path118"
-   style="fill:#2aa198;fill-opacity:1" />
+   style="fill:#006680;fill-opacity:1"
+   inkscape:connector-curvature="0" />
 	<rect
    x="1521"
    y="1002"
@@ -550,9 +540,10 @@
    style="fill:#eee8d5;fill-opacity:1" />
 	<path
    class="st6"
-   d="M1963.9,1226H1802.1c-7.24,0-13.1-5.87-13.1-13.1v-57.79c0-7.24,5.87-13.1,13.1-13.1h161.79   c7.24,0,13.1,5.87,13.1,13.1v57.79C1977,1220.13,1971.13,1226,1963.9,1226z"
+   d="m 1963.9,1226 h -161.8 c -7.24,0 -13.1,-5.87 -13.1,-13.1 v -57.79 c 0,-7.24 5.87,-13.1 13.1,-13.1 h 161.79 c 7.24,0 13.1,5.87 13.1,13.1 v 57.79 c 0.01,7.23 -5.86,13.1 -13.09,13.1 z"
    id="path122"
-   style="fill:#2aa198;fill-opacity:1" />
+   style="fill:#006680;fill-opacity:1"
+   inkscape:connector-curvature="0" />
 	<rect
    x="1808.28"
    y="1178"
@@ -593,8 +584,88 @@
    height="16"
    id="rect132"
    style="fill:#073642;fill-opacity:1" />
-</g>
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot4935"
+   style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+     id="flowRegion4937"><rect
+       id="rect4939"
+       width="596.875"
+       height="168.75"
+       x="268.75"
+       y="329.875" /></flowRegion><flowPara
+     id="flowPara4941"></flowPara></flowRoot></g>
 <g
    inkscape:groupmode="layer"
    id="layer3"
-   inkscape:label="Layer 2" /></svg>
+   inkscape:label="Layer 2"><path
+     class="st6"
+     d="M 1139.3263,317.88353 H 159.99448 c -8.71266,0 -15.76461,-5.87 -15.76461,-13.1 v -115.8 c 0,-7.24 7.06399,-13.1 15.76461,-13.1 h 979.31972 c 8.7127,0 15.7646,5.87 15.7646,13.1 v 115.79 c 0.012,7.24 -7.0519,13.11 -15.7525,13.11 z"
+     id="path118-6"
+     style="enable-background:new 0 0 1242 2208;fill:#006680;fill-opacity:1;stroke-width:1.09699869"
+     inkscape:connector-curvature="0" /><path
+     class="st6"
+     d="M 1138.2215,515.65246 H 158.88965 c -8.71266,0 -15.76461,-5.87 -15.76461,-13.1 v -115.8 c 0,-7.24 7.06399,-13.1 15.76461,-13.1 h 979.31975 c 8.7127,0 15.7646,5.87 15.7646,13.1 v 115.79 c 0.012,7.24 -7.0519,13.11 -15.7525,13.11 z"
+     id="path118-6-3"
+     style="fill:#006680;fill-opacity:1;stroke-width:1.09699869"
+     inkscape:connector-curvature="0" /></g><flowRoot
+   xml:space="preserve"
+   id="flowRoot4856"
+   style="font-style:normal;font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'sans-serif Bold';font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr-tb;direction:rtl;"><flowRegion
+     id="flowRegion4858"
+     style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr-tb;direction:rtl;"><rect
+       id="rect4860"
+       width="850.73785"
+       height="148.05048"
+       x="1482.7145"
+       y="1142.9204"
+       style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr-tb;direction:rtl;" /></flowRegion><flowPara
+     id="flowPara4862" /></flowRoot><rect
+   x="150.13785"
+   y="2068.9341"
+   class="st5"
+   width="64"
+   height="64"
+   id="rect59-6"
+   style="fill:#eee8d5;fill-opacity:1" /><g
+   inkscape:groupmode="layer"
+   id="layer4"
+   inkscape:label="Layer 3"><flowRoot
+     xml:space="preserve"
+     id="flowRoot4927"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;direction:rtl;text-anchor:middle;fill:#eee8d5;fill-opacity:1;stroke:none;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     transform="translate(-94.991777,-131.17632)"><flowRegion
+       id="flowRegion4929"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;writing-mode:lr;direction:rtl;text-anchor:middle;fill:#eee8d5;fill-opacity:1;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><rect
+         id="rect4931"
+         width="1046.875"
+         height="182.8125"
+         x="218.75"
+         y="348.625"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;writing-mode:lr;direction:rtl;text-anchor:middle;fill:#eee8d5;fill-opacity:1;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
+       id="flowPara4933"
+       style="fill:#eee8d5;fill-opacity:1;-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:64px;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Einladungslink generieren</flowPara></flowRoot><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eee8d5;fill-opacity:1;stroke:none"
+     x="633.59296"
+     y="648.44373"
+     id="text4995"><tspan
+       sodipodi:role="line"
+       id="tspan4997"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:OpenSans;-inkscape-font-specification:'OpenSans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       x="633.59296"
+       y="648.44373">Deine Spiele</tspan></text>
+<flowRoot
+     xml:space="preserve"
+     id="flowRoot5014"
+     style="enable-background:new 0 0 1242 2208;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:OpenSans;-inkscape-font-specification:'OpenSans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eee8d5;fill-opacity:1;stroke:none"
+     transform="translate(106.25,31.25)"><flowRegion
+       id="flowRegion5016"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:OpenSans;-inkscape-font-specification:'OpenSans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#eee8d5;fill-opacity:1"><rect
+         id="rect5018"
+         width="1006.25"
+         height="137.5"
+         x="146.875"
+         y="373.625"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:OpenSans;-inkscape-font-specification:'OpenSans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#eee8d5;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara5022">Einladung annnehmen</flowPara></flowRoot></g></svg>
