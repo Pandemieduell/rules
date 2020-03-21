@@ -25,7 +25,7 @@ class GameState:
 
 	def __repr__(self):
 		return "GameState(" + ", ".join(map(lambda x: x[0] + "=" + str(x[1]),
-				[("mood", self.mood), ("taxes",self.taxes), ("healthcare",self.healthcare), ("infected",self.infected),
+				[("mood", self.mood), ("taxes",self.taxes), ("healthcare",self.healthcare), ("infected",self.infected), ("new_infected",self.new_infected),
 				 ("dead",self.dead), ("immune", self.immune), ("active", self.active), ("noninfected", self.noninfected)])) + ")"
 
 class Card:
