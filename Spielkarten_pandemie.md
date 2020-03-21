@@ -20,4 +20,10 @@ BEISPIELHAFTE KARTEN!
 3: (V) -2.5%  
 4:   
 
-## 2 
+## 2 die Bevölkerung demonstriert gegen x, x muss schon eingetreten sein und Unzufriedenheit muss (V) muss bei y sein
+
+0: (W) +3% (I) +6 (V) -1%  
+1: (W) -3%  
+2:   
+3:   
+4:   
