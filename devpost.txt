@@ -34,17 +34,12 @@
     Es haben sich dann schnell drei Teams gefunden. Das erste hat die Spielmechanik und die Gestaltung der Oberfläche erstellt, eine zweite Gruppe hat das Backend und die dritte das Frontend entwickelt. Regelmäßig wurde mit allen Teilnehmern kommuniziert.
        
 
-8. Herausforderung
-    - niemand je Hackaton, keine Frontenderfahrung, keine Designerfahrung (Graphik)
-    - dass ein Backend existiert und Zusammenarbeit in einer nur locker bekannten Gruppe
+7. Herausforderung
+    Die größte Herausforderung für uns bestand darin, dass niemand von uns je Frontendentwicklung und Oberflächengestaltung betrieben oder an einem Hackathon teilgenommen hat.
+    Wir sind stolz darauf, dass wir als eine nur locker bekannte Gruppe sioweit gekommen sind.
 
 11. Zukunft
     - Bugfixes, Hosting, Balancing
-<<<<<<< HEAD
-    
-    
-n. Spielablauf
-=======
 
 12. (geplanter) Spielverlauf
 
@@ -56,4 +51,3 @@ n. Spielablauf
     Die Regierung gewinnt, sobald es keine Infizierten mehr gibt,
     der Virus wenn in der Zwischenzeit das Gesundheitssystem des Landes zusammengebrochen ist.
 
->>>>>>> 2bfd03f844fd611493eb6f906f06cf102e64e323
