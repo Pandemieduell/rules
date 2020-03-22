@@ -28,7 +28,7 @@
     In der kommenden Zeit möchten wir das Frontend zu Ende entwickeln. Darüber hinaus muss weiterhin Bugfixing betrieben werden. Anschließend muss zwischen den beiden Spielparteien Balancing betrieben werden. Die Dokumentation des Codes soll ausgeweited werden.
 
 5. Verständlichkeit
-    Die App ist so konzipiert, dass sie leicht verständlich ist. Dabei wird vielen geholfen, da sie in Zeiten des Social Distancing hilft soziale Kontakte aufrecht zu erhalten. Im Vordergrund soll zu jedem Zeitpunkt der Spaß stehen.
+    Die App ist so konzipiert, dass sie leicht verständlich ist. Dabei wird vielen geholfen, da sie in Zeiten des Social Distancing hilft soziale Kontakte aufrecht zu erhalten. Im Vordergrund soll daher zu jedem Zeitpunkt der Spaß stehen.
     
     
 6. Geschichte / Team
