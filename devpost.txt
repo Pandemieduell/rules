@@ -44,14 +44,23 @@ Verständlichkeit des Projekts und welche Herausforderung mit der Lösungsidee w
     - dass ein Backend existiert und Zusammenarbeit in einer nur locker bekannten Gruppe
 
 11. Zukunft
-    
+
 Nach diesem anstrengenden Hackathon möchten wir erstmal ausschlafen.
 Danach soll unser Projekt aber nicht einfach liegen bleiben,
 sondern wir planen es zu einem sinnvoll spielbaren Projekt zuendezuentwickeln.
-Dafür
-- Bugfixes, Hosting, Balancing
+Dafür müssen wir uns um drei wichtige Doings kümmern:
 
-12. (geplanter) Spielverlauf
+    - Bugfixing:  
+    Es gibt insbesondere im noch nicht vollständigen Frontend, aber auch im Backend noch einige Fehler.
+    Um das Spiel massenkompatibel zu machen müssen diese behoben werden
+    - Balancing:  
+    Wir haben zwar ein funktierendes Spielmodell,
+    aber sind uns noch nicht über die genauen Interaktionen der Aktionen im Klaren.
+    - Hosting:  
+    Als Studenten haben wir nicht die finanziellen Möglichkeiten die Server über die von Google gesponsorte kostenlose Periode hinweg zu betreiben.
+    Wir würden uns daher freuen, wenn sich für ein finales Projekt jemand finden würde, der das Spiel auch tatsächlich betreibt.
+
+12. geplanter Spielverlauf
 
 Zwei Teilnehmer spielen gegeneinander, einer als Pandemie, einer als Regierung.
 In jeder Runde wird dafür den beiden Spielern zufällig jeweils vier Aktionen zur Verfügung gestellt,
