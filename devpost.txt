@@ -41,7 +41,8 @@
 
 7. Herausforderung
     Die größte Herausforderung für uns bestand darin, dass niemand von uns je Frontendentwicklung und Oberflächengestaltung betrieben oder an einem Hackathon teilgenommen hat.
-    Wir sind stolz darauf, dass wir als eine nur locker bekannte Gruppe sioweit gekommen sind.
+    Wir sind stolz darauf, dass wir als eine nur locker bekannte Gruppe soweit gekommen sind,
+    und trotz aller Unerfahrenheit in der kurzen Zeit so viele Komponenten eines funktionierenden Projektes erstellen konnten.
 
 11. Zukunft
 
