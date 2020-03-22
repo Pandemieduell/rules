@@ -40,6 +40,20 @@
 
 11. Zukunft
     - Bugfixes, Hosting, Balancing
+<<<<<<< HEAD
     
     
 n. Spielablauf
+=======
+
+12. (geplanter) Spielverlauf
+
+    Zwei Teilnehmer spielen gegeneinander, einer als Pandemie, einer als Regierung.
+    In jeder Runde wird dafür den beiden Spielern zufällig jeweils vier Aktionen zur Verfügung gestellt,
+    von denen sie jeweils eine auswählen können.
+    Die Effekte dieser Aktionen werden dann ab dem Ende der Runde auf den Spielzustand angewandt.
+    Das Spiel endet, sobald einer der beiden Spieler gewinnt:
+    Die Regierung gewinnt, sobald es keine Infizierten mehr gibt,
+    der Virus wenn in der Zwischenzeit das Gesundheitssystem des Landes zusammengebrochen ist.
+
+>>>>>>> 2bfd03f844fd611493eb6f906f06cf102e64e323
