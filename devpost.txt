@@ -1,6 +1,6 @@
 1. Gesellschaftlicher Mehrwert
 
-    Momentan halten sich nicht alle Bürger an die von der Regierung erlassenen Vorschriften, da ihnen nicht klar ist, warum diese erlassen wurden. Hier möchten wir spielerisch ansetzen und dem Nutzer vermitteln, welche Konsequenzen das (Nicht-) Befolgen einer solchen Maßnahme nach sich zieht. Zusätzlich sollen im Spiel soziale Kontakte gepflegt werden, weshalb wir ein Multiplayer-Spiel entwickeln wollen.
+    Momentan halten sich nicht alle Bürger an die von der Regierung erlassenen Vorschriften. Ihnen ist nicht klar, warum diese erlassen wurden. Hier möchten wir spielerisch ansetzen und dem Nutzer vermitteln, welche Konsequenzen das (Nicht-) Befolgen einer solchen Maßnahme nach sich zieht. Zusätzlich sollen im Spiel soziale Kontakte gepflegt werden, weshalb wir ein Multiplayer-Spiel entwickeln wollen.
     Da fast jeder ein Smartphone besitzt, kann das Spiel von vielen genutzt werden. Die App kann auch nach der Pandemie weiter genutzt werden, eine Erweiterung um zusätzliche Krankheiten ist hierbei vorstellbar und steigert das Spielerlebnis.
 
 
