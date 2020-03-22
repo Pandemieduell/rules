@@ -60,9 +60,10 @@ Dafür müssen wir uns um drei wichtige Doings kümmern:
 
 12. geplanter Spielverlauf
 
-Zwei Teilnehmer spielen gegeneinander, einer als Pandemie, einer als Regierung.
+Zwei Teilnehmer spielen gegeneinander, einer in der Rolle der Pandemie, einer in der Rolle der Regierung.
 In jeder Runde wird dafür den beiden Spielern zufällig jeweils vier Aktionen zur Verfügung gestellt,
 von denen sie jeweils eine auswählen können.
+Es werden dafür die Ressourcen Moral der Bevölkerung, Kapazität des Gesundheitssystems und verfügbere finanzielle Mittel der Regierung definiert, sowie infizierte, gesunde, immune und tote Personen, Wachstumsfaktor, Mortalitätsrate bestimmt.
 Die Effekte dieser Aktionen werden dann ab dem Ende der Runde auf den Spielzustand angewandt.
 Das Spiel endet, sobald einer der beiden Spieler gewinnt:
 Die Regierung gewinnt, sobald es keine Infizierten mehr gibt,
