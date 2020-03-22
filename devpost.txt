@@ -1,42 +1,37 @@
-1. Innovationsgrad
+1. Gesellschaftlicher Mehrwert
 
-Momentan halten sich nicht alle Bürger an die von der Regierung erlassenen Vorschriften, da ihnen nicht klar ist, warum diese erlassen wurden. Hier möchten wir spielerisch ansetzen und dem Nutzer vermitteln, welche Konsequenzen das (Nicht-) Befolgen einer solchen Maßnahme nach sich zieht. Zusätzlich sollen im Spiel soziale Kontakte gepflegt werden, weshalb wir ein Multiplayer-Spiel entwickeln wollen.
-Da fast jeder ein Smartphone besitzt, kann das Spiel von vielen genutzt werden. Die App kann auch nach der Pandemie weiter genutzt werden, eine Erweiterung um zusätzliche Krankheiten ist hierbei vorstellbar und steigert das Spielerlebnis.
+    Momentan halten sich nicht alle Bürger an die von der Regierung erlassenen Vorschriften, da ihnen nicht klar ist, warum diese erlassen wurden. Hier möchten wir spielerisch ansetzen und dem Nutzer vermitteln, welche Konsequenzen das (Nicht-) Befolgen einer solchen Maßnahme nach sich zieht. Zusätzlich sollen im Spiel soziale Kontakte gepflegt werden, weshalb wir ein Multiplayer-Spiel entwickeln wollen.
+    Da fast jeder ein Smartphone besitzt, kann das Spiel von vielen genutzt werden. Die App kann auch nach der Pandemie weiter genutzt werden, eine Erweiterung um zusätzliche Krankheiten ist hierbei vorstellbar und steigert das Spielerlebnis.
 
 
-Um die Anwendung frei zugänglich zu machen steht unser Projekt soweit nicht durch andere Lizenzen eingeschränkt unter der sehr freizügigen MIT-Lizenz. Wir möchten damit gewährleisten, dass jeder unser Spiel anwenden, verbessern oder hosten kann.
+    Um die Anwendung frei zugänglich zu machen steht unser Projekt soweit nicht durch andere Lizenzen eingeschränkt unter der sehr freizügigen MIT-Lizenz. Wir möchten damit gewährleisten, dass jeder unser Spiel anwenden, verbessern oder hosten kann.
     
 2. Innovationsgrad
-Innovationsgrad und Kreativität der Lösungsidee sowie des beabsichtigten Ansatzes oder der Technologie, mit der die Lösung implementiert wird. Gibt es bestehende oder ähnliche Lösungen? Wie unterscheiden sie sich von dieser? 
+    Innovationsgrad und Kreativität der Lösungsidee sowie des beabsichtigten Ansatzes oder der Technologie, mit der die Lösung implementiert wird. Gibt es bestehende oder ähnliche Lösungen? Wie unterscheiden sie sich von dieser? 
 
-Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.]() und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten. 
-Ein gleiches Konzept ist uns nicht bekannt, aber im Rahmen der im Hackathon gestellte Challenge wurden ähnliche Projekte entwickelt. Diese sind jedoch nicht für mehrere Spieler ausgelegt. (https://devpost.com/software/plagueprevent https://devpost.com/software/corona-minigame https://devpost.com/software/046_gamification_cards_against_corona)
+    Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.]() und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten. 
+    Ein gleiches Konzept ist uns nicht bekannt, aber im Rahmen der im Hackathon gestellte Challenge wurden ähnliche Projekte entwickelt. Diese sind jedoch nicht für mehrere Spieler ausgelegt. (https://devpost.com/software/plagueprevent https://devpost.com/software/corona-minigame https://devpost.com/software/046_gamification_cards_against_corona)
 
    
-3. Skalierbarkeit der Lösung, wenn sie implementiert und realisiert wird. Was ist der erwartete Bedarf? Wie viele Menschen sind betroffen und profitieren von der Lösung? Wie viele können es benutzen oder sind bereit, dafür zu zahlen.
-    - zahlen wird niemand
-    - jeder kann es nutzen
-    - gut skalierbar, da kaum Rechenleistung benötigt
+3. Skalierbarkeit der Lösung
+    Wir werden kein Bezahlmodell implementieren, um eine allgemeine Nutzung zu ermöglichen. 
+    Das kann aufgrund der offenen Lizenz natürlich niemanden daran hindern ein solches nachträglich zu ergänzen.
+    
+    Da das Spiel zum Großteil auf dem Client läuft, wird kaum Serverkapazität benötigt. Deshalb gehen wir davon aus, dass die Skalierbarkeit für einen Anbieter gut ist.
 
 
 4. Fortschritt
-Fortschritt, der im Rahmen des Hackathons erzielt wurde. Dabei gilt: gute dokumentierte Zwischenstände, auf die aufgebaut werden kann, sind besser als möglichst viel geschriebener Code. Was habt ihr in den letzten 48 Stunden geschafft? Wie gut lässt sich darauf aufbauen?
-    - Es existiert ein Designentwurf (Mechanik && Graphik), ein Backend, Grundzüge eines Frontends
-    - mithilfe des Designentwurfs kann das Spiel implementiert werden
-    - Was noch zu tun ist: Frontendentwicklung, Bugfixing, Balancing!!
+    Was wir erreicht haben: Es wurde eine Spielmechanik entwickelt, ein Design für die App erstellt und ein Backend implementiert. Darüber hinaus wurde begonnen ein Frontend zu erstellen.
+    Was wir noch tun wollen: In der kommenden Zeit möchten wir das Frontend zu Ende entwickeln. Darüber hinaus muss weiterhin Bugfixing betrieben werden. Anschließend muss zwischen den beiden Spielparteien Balancing betrieben werden. Die Dokumentation des Codes soll ausgeweited werden.
 
 5. Verständlichkeit
-Verständlichkeit des Projekts und welche Herausforderung mit der Lösungsidee wie gelöst werden soll, einschließlich der Gruppe an Menschen die betroffen ist und profitieren würde. Wie gut ist die Lösung kommuniziert und dokumentiert?
-    - für Anwender Verständlichkeit hoch, vielen wird etwas geholfen (erhält soz. kontakte aufrecht, Spaß)
-    - Doku nicht umfangreich
+    Die App ist so konzipiert, dass sie leicht verständlich ist. Dabei wird vielen geholfen, da sie in Zeiten des Social Distancing hilft soziale Kontakte aufrecht zu erhalten. Im Vordergrund soll zu jedem Zeitpunkt der Spaß stehen.
     
-
+    
 6. Geschichte / Team
-    - Satz Studenstierende (kennen sich weitgehend als Mentoren von Erstsemestern) aus KA, verteilt 
-    - Wir haben solange Projekte zufällig gesucht, bis ein gefallendes gefunden wurde.
-    - Wurde Fr um 21:00 geeinigt 
-    - 3 Teams: Design (Graphik && Mechanik), Backend, Frontend 
-    - regelmäßige dig. Besprechungen
+    Wir sind eine Gruppe Studierender am Karlsruher Institut für Technologie (KIT) und kennen uns weitgehend als Mentoren von Erstsemestern. Nachdem wir beschlossen hatten am Hackathon teilzunehmen, haben wir zunächst zufällig nach Projekten gesucht. Nachdem wir auf dieses Projekt gestossen waren, haben wir uns schnell darauf einigen können. Zu diesem Zeitpunkt war es allerdings schon 21:00 am Freitag Abend.
+    
+    Es haben sich dann schnell drei Teams gefunden. Das erste hat die Spielmechanik und die Gestaltung der Oberfläche erstellt, eine zweite Gruppe hat das Backend und die dritte das Frontend entwickelt. Regelmäßig wurde mit allen Teilnehmern kommuniziert.
        
 
 8. Herausforderung
@@ -45,3 +40,6 @@ Verständlichkeit des Projekts und welche Herausforderung mit der Lösungsidee w
 
 11. Zukunft
     - Bugfixes, Hosting, Balancing
+    
+    
+n. Spielablauf
