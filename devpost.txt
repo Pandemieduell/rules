@@ -36,7 +36,7 @@
     Nachdem wir beschlossen hatten am Hackathon teilzunehmen, haben wir zunächst zufällig nach Projekten gesucht, die uns meist nicht sehr ansprachen.
     Als wir aber dieses dieses Projekt gefunden haben, konnten wir uns schnell darauf einigen. Zu diesem Zeitpunkt war es allerdings schon 21:00 am Freitag Abend.
     
-    Es haben sich dann schnell drei Teams gefunden. Das erste hat die Spielmechanik und die Gestaltung der Oberfläche erstellt, eine zweite Gruppe hat das Backend und die dritte das Frontend entwickelt. Regelmäßig wurde mit allen Teilnehmern kommuniziert.
+    Es haben sich dann schnell drei Teams gebildet. Das erste hat die Spielmechanik und die Gestaltung der Oberfläche erstellt, eine zweite Gruppe hat das Backend und die dritte das Frontend entwickelt. Regelmäßig wurde mit allen Teilnehmern kommuniziert.
        
 
 7. Herausforderung
