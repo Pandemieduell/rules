@@ -21,8 +21,11 @@
 
 
 4. Fortschritt
-    Was wir erreicht haben: Es wurde eine Spielmechanik entwickelt, ein Design für die App erstellt und ein Backend implementiert. Darüber hinaus wurde begonnen ein Frontend zu erstellen.
-    Was wir noch tun wollen: In der kommenden Zeit möchten wir das Frontend zu Ende entwickeln. Darüber hinaus muss weiterhin Bugfixing betrieben werden. Anschließend muss zwischen den beiden Spielparteien Balancing betrieben werden. Die Dokumentation des Codes soll ausgeweited werden.
+
+    - Was wir erreicht haben:  
+    Es wurde eine Spielmechanik entwickelt, ein Design für die App erstellt und ein Backend implementiert. Darüber hinaus wurde begonnen ein Frontend zu erstellen.
+    - Was wir noch tun wollen:  
+    In der kommenden Zeit möchten wir das Frontend zu Ende entwickeln. Darüber hinaus muss weiterhin Bugfixing betrieben werden. Anschließend muss zwischen den beiden Spielparteien Balancing betrieben werden. Die Dokumentation des Codes soll ausgeweited werden.
 
 5. Verständlichkeit
     Die App ist so konzipiert, dass sie leicht verständlich ist. Dabei wird vielen geholfen, da sie in Zeiten des Social Distancing hilft soziale Kontakte aufrecht zu erhalten. Im Vordergrund soll zu jedem Zeitpunkt der Spaß stehen.
