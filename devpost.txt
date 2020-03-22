@@ -4,7 +4,7 @@
     Da fast jeder ein Smartphone besitzt, kann das Spiel von vielen genutzt werden. Die App kann auch nach der Pandemie weiter genutzt werden, eine Erweiterung um zusätzliche Krankheiten ist hierbei vorstellbar und steigert das Spielerlebnis.
 
 
-    Um die Anwendung frei zugänglich zu machen steht unser Projekt soweit nicht durch andere Lizenzen eingeschränkt unter der sehr freizügigen MIT-Lizenz. Wir möchten damit gewährleisten, dass jeder unser Spiel anwenden, verbessern oder hosten kann.
+    Um die Anwendung frei zugänglich zu machen, steht unser Projekt soweit nicht durch andere Lizenzen eingeschränkt unter der sehr freizügigen MIT-Lizenz. Wir möchten damit gewährleisten, dass jeder unser Spiel anwenden, verbessern oder hosten kann.
     
 2. Innovationsgrad
     Innovationsgrad und Kreativität der Lösungsidee sowie des beabsichtigten Ansatzes oder der Technologie, mit der die Lösung implementiert wird. Gibt es bestehende oder ähnliche Lösungen? Wie unterscheiden sie sich von dieser? 
