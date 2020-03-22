@@ -8,13 +8,14 @@
     
 2. Innovationsgrad
 
-    Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.]() und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten. 
-    Ein gleiches Konzept ist uns nicht bekannt, aber im Rahmen der im Hackathon gestellte Challenge wurden ähnliche Projekte entwickelt. Diese sind jedoch nicht für mehrere Spieler ausgelegt. (https://devpost.com/software/plagueprevent https://devpost.com/software/corona-minigame https://devpost.com/software/046_gamification_cards_against_corona)
+    Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.](https://www.ndemiccreations.com/en/22-plague-inc) und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten.
+    Ein gleiches Konzept ist uns nicht bekannt, aber im Rahmen der im Hackathon gestellte Challenge wurden ähnliche Projekte entwickelt. Diese sind jedoch nicht für mehrere Spieler ausgelegt.
+    (Wir haben [Plague Prevent](https://devpost.com/software/plagueprevent) [Corona-Minigame](https://devpost.com/software/corona-minigame) und [Cards Against Corona](https://devpost.com/software/046_gamification_cards_against_corona) betrachtet)
 
    
 3. Skalierbarkeit der Lösung
-    Wir werden kein Bezahlmodell implementieren, um eine allgemeine Nutzung zu ermöglichen. 
-    Das kann aufgrund der offenen Lizenz natürlich niemanden daran hindern ein solches nachträglich zu ergänzen.
+    Wir werden kein Bezahlmodell implementieren, um eine allgemeine Nutzung zu ermöglichen.
+    Das kann und soll aufgrund der offenen Lizenz natürlich niemanden daran hindern ein solches nachträglich zu ergänzen.
     
     Da das Spiel zum Großteil auf dem Client läuft, wird kaum Serverkapazität benötigt. Deshalb gehen wir davon aus, dass die Skalierbarkeit für einen Anbieter gut ist.
 
