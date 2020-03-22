@@ -1,33 +1,47 @@
-1. gesellschaftlicher Mehrwert
-Mehrwert, den die Lösung der Gesellschaft bringt wenn sie umgesetzt wird. Hierzu zählt auch, ob die Lösung Open Source veröffentlicht wurde, sodass andere darauf aufbauen und sie nachnutzen können. Wie vielen Menschen hilft die Lösung und wie sehr? Wie sehr baut die Lösung auf und trägt zur Open-Source-Community bei?
+1. Innovationsgrad
+
+Momentan halten sich nicht alle Bürger an die von der Regierung erlassenen Vorschriften, da ihnen nicht klar ist, warum diese erlassen wurden. Hier möchten wir spielerisch ansetzen und dem Nutzer vermitteln, welche Konsequenzen das (Nicht-) Befolgen einer solchen Maßnahme nach sich zieht. Zusätzlich sollen im Spiel soziale Kontakte gepflegt werden, weshalb wir ein Multiplayer-Spiel entwickeln wollen.
+Da fast jeder ein Smartphone besitzt, kann das Spiel von vielen genutzt werden. Die App kann auch nach der Pandemie weiter genutzt werden, eine Erweiterung um zusätzliche Krankheiten ist hierbei vorstellbar und steigert das Spielerlebnis.
 
 
+Um die Anwendung frei zugänglich zu machen steht unser Projekt soweit nicht durch andere Lizenzen eingeschränkt unter der sehr freizügigen MIT-Lizenz. Wir möchten damit gewährleisten, dass jeder unser Spiel anwenden, verbessern oder hosten kann.
+    
 2. Innovationsgrad
 Innovationsgrad und Kreativität der Lösungsidee sowie des beabsichtigten Ansatzes oder der Technologie, mit der die Lösung implementiert wird. Gibt es bestehende oder ähnliche Lösungen? Wie unterscheiden sie sich von dieser? 
 
-
+Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.]() und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten. 
+Ein gleiches Konzept ist uns nicht bekannt, aber im Rahmen der im Hackathon gestellte Challenge wurden ähnliche Projekte entwickelt. Diese sind jedoch nicht für mehrere Spieler ausgelegt. (https://devpost.com/software/plagueprevent https://devpost.com/software/corona-minigame https://devpost.com/software/046_gamification_cards_against_corona)
 
    
-3. SkalierbarkeitSkalierbarkeit der Lösung, wenn sie implementiert und realisiert wird. Was ist der erwartete Bedarf? Wie viele Menschen sind betroffen und profitieren von der Lösung? Wie viele können es benutzen oder sind bereit, dafür zu zahlen.
+3. Skalierbarkeit der Lösung, wenn sie implementiert und realisiert wird. Was ist der erwartete Bedarf? Wie viele Menschen sind betroffen und profitieren von der Lösung? Wie viele können es benutzen oder sind bereit, dafür zu zahlen.
+    - zahlen wird niemand
+    - jeder kann es nutzen
+    - gut skalierbar, da kaum Rechenleistung benötigt
 
 
 4. Fortschritt
 Fortschritt, der im Rahmen des Hackathons erzielt wurde. Dabei gilt: gute dokumentierte Zwischenstände, auf die aufgebaut werden kann, sind besser als möglichst viel geschriebener Code. Was habt ihr in den letzten 48 Stunden geschafft? Wie gut lässt sich darauf aufbauen?
-
+    - Es existiert ein Designentwurf (Mechanik && Graphik), ein Backend, Grundzüge eines Frontends
+    - mithilfe des Designentwurfs kann das Spiel implementiert werden
+    - Was noch zu tun ist: Frontendentwicklung, Bugfixing, Balancing!!
 
 5. Verständlichkeit
 Verständlichkeit des Projekts und welche Herausforderung mit der Lösungsidee wie gelöst werden soll, einschließlich der Gruppe an Menschen die betroffen ist und profitieren würde. Wie gut ist die Lösung kommuniziert und dokumentiert?
+    - für Anwender Verständlichkeit hoch, vielen wird etwas geholfen (erhält soz. kontakte aufrecht, Spaß)
+    - Doku nicht umfangreich
+    
 
-6. Geschichte
-
-
-   
-7. Team
+6. Geschichte / Team
+    - Satz Studenstierende (kennen sich weitgehend als Mentoren von Erstsemestern) aus KA, verteilt 
+    - Wir haben solange Projekte zufällig gesucht, bis ein gefallendes gefunden wurde.
+    - Wurde Fr um 21:00 geeinigt 
+    - 3 Teams: Design (Graphik && Mechanik), Backend, Frontend 
+    - regelmäßige dig. Besprechungen
+       
 
 8. Herausforderung
-
-9. Worauf wir stolz sind
-
-10. Was wir gelernt haben
+    - niemand je Hackaton, keine Frontenderfahrung, keine Designerfahrung (Graphik)
+    - dass ein Backend existiert und Zusammenarbeit in einer nur locker bekannten Gruppe
 
 11. Zukunft
+    - Bugfixes, Hosting, Balancing
