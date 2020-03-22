@@ -1,0 +1,33 @@
+1. gesellschaftlicher Mehrwert
+Mehrwert, den die Lösung der Gesellschaft bringt wenn sie umgesetzt wird. Hierzu zählt auch, ob die Lösung Open Source veröffentlicht wurde, sodass andere darauf aufbauen und sie nachnutzen können. Wie vielen Menschen hilft die Lösung und wie sehr? Wie sehr baut die Lösung auf und trägt zur Open-Source-Community bei?
+
+
+2. Innovationsgrad
+Innovationsgrad und Kreativität der Lösungsidee sowie des beabsichtigten Ansatzes oder der Technologie, mit der die Lösung implementiert wird. Gibt es bestehende oder ähnliche Lösungen? Wie unterscheiden sie sich von dieser? 
+
+
+
+   
+3. SkalierbarkeitSkalierbarkeit der Lösung, wenn sie implementiert und realisiert wird. Was ist der erwartete Bedarf? Wie viele Menschen sind betroffen und profitieren von der Lösung? Wie viele können es benutzen oder sind bereit, dafür zu zahlen.
+
+
+4. Fortschritt
+Fortschritt, der im Rahmen des Hackathons erzielt wurde. Dabei gilt: gute dokumentierte Zwischenstände, auf die aufgebaut werden kann, sind besser als möglichst viel geschriebener Code. Was habt ihr in den letzten 48 Stunden geschafft? Wie gut lässt sich darauf aufbauen?
+
+
+5. Verständlichkeit
+Verständlichkeit des Projekts und welche Herausforderung mit der Lösungsidee wie gelöst werden soll, einschließlich der Gruppe an Menschen die betroffen ist und profitieren würde. Wie gut ist die Lösung kommuniziert und dokumentiert?
+
+6. Geschichte
+
+
+   
+7. Team
+
+8. Herausforderung
+
+9. Worauf wir stolz sind
+
+10. Was wir gelernt haben
+
+11. Zukunft
