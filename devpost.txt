@@ -9,7 +9,7 @@
 2. Innovationsgrad
     Innovationsgrad und Kreativität der Lösungsidee sowie des beabsichtigten Ansatzes oder der Technologie, mit der die Lösung implementiert wird. Gibt es bestehende oder ähnliche Lösungen? Wie unterscheiden sie sich von dieser? 
 
-    Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.]() und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten. 
+    Die Idee entstand als eine Mischung schon existierender Spielmechaniken, insbesondere [Plague Inc.](https://www.ndemiccreations.com/en/22-plague-inc) und [Quizduell](www.quizduell-game.de). Die Herausforderung bestand darin, ein kompetitives Spiel mit gemeinsamen Ziel, die Maßnahmen zu verstehen, zu gestalten. 
     Ein gleiches Konzept ist uns nicht bekannt, aber im Rahmen der im Hackathon gestellte Challenge wurden ähnliche Projekte entwickelt. Diese sind jedoch nicht für mehrere Spieler ausgelegt. (https://devpost.com/software/plagueprevent https://devpost.com/software/corona-minigame https://devpost.com/software/046_gamification_cards_against_corona)
 
    
