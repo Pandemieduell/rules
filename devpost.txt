@@ -63,7 +63,8 @@ Dafür müssen wir uns um drei wichtige Doings kümmern:
 Zwei Teilnehmer spielen gegeneinander, einer in der Rolle der Pandemie, einer in der Rolle der Regierung.
 In jeder Runde wird dafür den beiden Spielern zufällig jeweils vier Aktionen zur Verfügung gestellt,
 von denen sie jeweils eine auswählen können.
-Es werden dafür die Ressourcen Moral der Bevölkerung, Kapazität des Gesundheitssystems und verfügbere finanzielle Mittel der Regierung definiert, sowie infizierte, gesunde, immune und tote Personen, Wachstumsfaktor, Mortalitätsrate bestimmt.
+Es werden dafür die Ressourcen Moral der Bevölkerung, Kapazität des Gesundheitssystems und verfügbere finanzielle Mittel der Regierung gesteuert.
+Das Spiel berechnet daraus einen Wachstumsfaktor und die Mortalitätsrate und bestimmt daraus infizierte, gesunde, immune und tote Personen.
 Die Effekte dieser Aktionen werden dann ab dem Ende der Runde auf den Spielzustand angewandt.
 Das Spiel endet, sobald einer der beiden Spieler gewinnt:
 Die Regierung gewinnt, sobald es keine Infizierten mehr gibt,
